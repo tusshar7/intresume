@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/intresume/static/css/main.10ef7870.chunk.css",
+    "main.js": "/intresume/static/js/main.90900cc9.chunk.js",
+    "main.js.map": "/intresume/static/js/main.90900cc9.chunk.js.map",
+    "runtime-main.js": "/intresume/static/js/runtime-main.af8a4600.js",
+    "runtime-main.js.map": "/intresume/static/js/runtime-main.af8a4600.js.map",
+    "static/js/2.0f7c6ad1.chunk.js": "/intresume/static/js/2.0f7c6ad1.chunk.js",
+    "static/js/2.0f7c6ad1.chunk.js.map": "/intresume/static/js/2.0f7c6ad1.chunk.js.map",
+    "index.html": "/intresume/index.html",
+    "precache-manifest.96391b9005e2f9013bcbb8b948883c9e.js": "/intresume/precache-manifest.96391b9005e2f9013bcbb8b948883c9e.js",
+    "service-worker.js": "/intresume/service-worker.js",
+    "static/css/main.10ef7870.chunk.css.map": "/intresume/static/css/main.10ef7870.chunk.css.map",
+    "static/js/2.0f7c6ad1.chunk.js.LICENSE.txt": "/intresume/static/js/2.0f7c6ad1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/intresume/static/media/bck.e1eb3839.jpeg",
+    "static/media/contact.jpg": "/intresume/static/media/contact.d3c872e0.jpg",
+    "static/media/fb.jpg": "/intresume/static/media/fb.c0e3d867.jpg",
+    "static/media/git.jpg": "/intresume/static/media/git.2fb826ba.jpg",
+    "static/media/gmail.jpg": "/intresume/static/media/gmail.48f09a16.jpg",
+    "static/media/home.jpg": "/intresume/static/media/home.bcc18796.jpg",
+    "static/media/insta.PNG": "/intresume/static/media/insta.fd9c2c90.PNG",
+    "static/media/intlink.jpg": "/intresume/static/media/intlink.c9d61531.jpg",
+    "static/media/profile.png": "/intresume/static/media/profile.c55819c4.png",
+    "static/media/project.jpg": "/intresume/static/media/project.06f8d8fb.jpg",
+    "static/media/resume.jpg": "/intresume/static/media/resume.f6a7901c.jpg",
+    "static/media/sample.pdf": "/intresume/static/media/sample.4b41a347.pdf",
+    "static/media/skills.jpg": "/intresume/static/media/skills.bf7e7d23.jpg",
+    "static/media/tush.png": "/intresume/static/media/tush.9bf442b4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af8a4600.js",
+    "static/js/2.0f7c6ad1.chunk.js",
+    "static/css/main.10ef7870.chunk.css",
+    "static/js/main.90900cc9.chunk.js"
+  ]
+}
