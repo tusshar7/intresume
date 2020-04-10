@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a716b10fa388af251c1067e14bc13f04",
+    "revision": "26157ec041d4bed4b653f603ac9b03d7",
     "url": "/intresume/index.html"
   },
   {
-    "revision": "549e90198bc3c60c526a",
-    "url": "/intresume/static/css/main.c769bdb6.chunk.css"
+    "revision": "6669c290599b9f81a159",
+    "url": "/intresume/static/css/main.2f53e5ea.chunk.css"
   },
   {
-    "revision": "d6dcd088b49ea6b3971d",
-    "url": "/intresume/static/js/2.0f7c6ad1.chunk.js"
+    "revision": "3bfc54a1a9da1fe42e9d",
+    "url": "/intresume/static/js/2.4c275973.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/intresume/static/js/2.0f7c6ad1.chunk.js.LICENSE.txt"
+    "url": "/intresume/static/js/2.4c275973.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "549e90198bc3c60c526a",
-    "url": "/intresume/static/js/main.b23b1c49.chunk.js"
+    "revision": "6669c290599b9f81a159",
+    "url": "/intresume/static/js/main.601b1d0d.chunk.js"
   },
   {
     "revision": "750eac5049fbab6ef060",
